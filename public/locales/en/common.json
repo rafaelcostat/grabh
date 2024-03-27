@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "Animal Rescue Group - GRABH",
+    "about": "About Us",
+    "operations": "Operations",
+    "donation": "Make a donation",
+    "description": "Especializado em Resgate Técnico Animal e Socorro e Salvamento de Animais em Desastres."
+  },
+  "hero": {
+    "title": "Together we can make the difference!"
+  },
+  "about": {
+    "label": "About Us",
+    "title": "Specialized in Technical Animal Rescue, Relief and Rescue of Animals in Disasters",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!",
+    "block1": "Rescued Animals",
+    "block2": "Families served",
+    "block3": "Operations Performed",
+    "block4": "Adopted Animals"
+  },
+  "operations": {
+    "title": "Our Operations",
+    "op1": {
+      "title": "Operation Rio do Sul",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+    },
+    "op2": {
+      "title": "Operation Blumenau",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+    },
+    "op3": {
+      "title": "Operation Itajaí",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+    }
+  },
+  "donation": {
+    "title": "Together, we can make a difference in the lives of animals in emergency situations.",
+    "button": "Make a donation"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

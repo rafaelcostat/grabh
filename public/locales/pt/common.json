@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "Grupo de Resgate Animal - GRABH",
+    "about": "Quem Somos",
+    "operations": "Operações",
+    "donation": "Faça uma doação",
+    "description": "Especializado em Resgate Técnico Animal e Socorro e Salvamento de Animais em Desastres."
+  },
+  "hero": {
+    "title": "Juntos, podemos fazer a diferença!"
+  },
+  "about": {
+    "label": "Quem Somos",
+    "title": "Especializados em Resgate Técnico Animal, Socorro e Salvamento de Animais em Desastres",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!",
+    "block1": "Animais Resgatados",
+    "block2": "Famílias atendidas",
+    "block3": "Operações Realizadas",
+    "block4": "Animais Adotados"
+  },
+  "operations": {
+    "title": "Nossas Operações",
+    "op1": {
+      "title": "Operação Rio do Sul",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+    },
+    "op2": {
+      "title": "Operação Blumenau",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+    },
+    "op3": {
+      "title": "Operação Itajaí",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+    }
+  },
+  "donation": {
+    "title": "Juntos, podemos fazer a diferença na vida dos animais em situações de emergência.",
+    "button": "Faça uma doação"
+  },
+  "footer": {
+    "rights": "Todos os Direitos Reservados."
+  }
+}
