@@ -20,7 +20,7 @@ function FlagIcon({ countryCode = '' }: FlagIconProps) {
 
   return (
     <span
-      className={`mr-2 inline-block h-5 w-5 rounded-full bg-white bg-cover bg-center bg-no-repeat fi-${countryCode}`}
+      className={`mr-2 inline-block h-5 w-5 rounded-full bg-white bg-cover bg-center bg-no-repeat shadow fi-${countryCode}`}
     />
   )
 }
