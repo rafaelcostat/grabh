@@ -43,7 +43,7 @@ export function LanguageSelector() {
           <button
             id="states-button"
             data-dropdown-toggle="dropdown-states"
-            className="z-10 inline-flex w-32 flex-shrink-0 items-center rounded-lg border border-gray-300 bg-gray-100 px-4 py-2.5 text-center text-sm font-medium text-gray-500 hover:bg-gray-200 focus:outline-none focus:ring-4 focus:ring-gray-100 dark:border-gray-600 dark:bg-gray-700 dark:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-700"
+            className="z-10 inline-flex w-32 flex-shrink-0 items-center rounded-lg border border-gray-300 bg-gray-100 px-4 py-2.5 text-center text-sm font-medium text-gray-500 hover:bg-gray-200 focus:outline-none focus:ring-4 focus:ring-gray-100"
             type="button"
             onClick={() => setIsOpen(!isOpen)}
           >
@@ -57,7 +57,7 @@ export function LanguageSelector() {
             >
               <button
                 type="button"
-                className="inline-flex w-full px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-600 dark:hover:text-white"
+                className="inline-flex w-full px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
                 onClick={() => changeLanguage('en')}
               >
                 <div className="inline-flex items-center">
@@ -68,7 +68,7 @@ export function LanguageSelector() {
 
               <button
                 type="button"
-                className="inline-flex w-full px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-600 dark:hover:text-white"
+                className="inline-flex w-full px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
                 onClick={() => changeLanguage('pt')}
               >
                 <div className="inline-flex items-center">

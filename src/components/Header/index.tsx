@@ -15,7 +15,7 @@ export function Header() {
 
   return (
     <Collapsible.Root>
-      <div className="fixed z-20 w-full bg-white shadow dark:bg-neutral-950">
+      <div className="fixed z-20 w-full bg-white shadow">
         <div className="container mx-auto px-4 sm:px-6">
           <div className="flex h-24 items-center justify-between">
             <div className="flex items-center">
