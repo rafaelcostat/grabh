@@ -12,7 +12,7 @@
   "about": {
     "label": "Quem Somos",
     "title": "Especializados em Resgate Técnico Animal, Socorro e Salvamento de Animais em Desastres",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!",
+    "description": "O Grupo de Resgate Animal de Belo Horizonte (GRABH) é uma organização pioneira no Brasil, especializada no resgate técnico de animais em ambientes urbanos e em desastres ambientais. Fundado em 2020, o GRABH é composto por 30 membros altamente qualificados, incluindo médicos veterinários, biólogos e auxiliares, todos treinados em resgate e com certificação de bombeiros civis.",
     "block1": "Animais Resgatados",
     "block2": "Famílias atendidas",
     "block3": "Operações Realizadas",
@@ -21,15 +21,18 @@
   "operations": {
     "title": "Nossas Operações",
     "op1": {
-      "title": "Operação Rio do Sul",
+      "title": "Rio Grande do Sul",
+      "date": "Maio 2024",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
     },
     "op2": {
-      "title": "Operação Blumenau",
+      "title": "Mimoso do Sul - ES",
+      "date": "Março 2024",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
     },
     "op3": {
-      "title": "Operação Itajaí",
+      "title": "Chile",
+      "date": "Fevereiro 2024",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
     }
   },

@@ -14,7 +14,7 @@ import imgAbout from '../assets/resgate.jpg'
 import bgDonate from '../assets/bgDonate.jpg'
 import img1 from '../assets/foto1.jpg'
 import img2 from '../assets/foto2.jpg'
-import img3 from '../assets/foto3.jpg'
+import img3 from '../assets/foto4.jpg'
 import Link from 'next/link.js'
 
 export default function Home() {
@@ -88,16 +88,19 @@ export default function Home() {
           <div className="flex  flex-col lg:grid lg:grid-cols-3">
             <News
               title={t('operations.op1.title')}
+              date={t('operations.op1.date')}
               imageUrl={img1}
               description={t('operations.op1.description')}
             />
             <News
               title={t('operations.op2.title')}
+              date={t('operations.op2.date')}
               imageUrl={img2}
               description={t('operations.op2.description')}
             />
             <News
               title={t('operations.op3.title')}
+              date={t('operations.op3.date')}
               imageUrl={img3}
               description={t('operations.op3.description')}
             />
@@ -114,7 +117,8 @@ export default function Home() {
               {t('donation.title')}
             </h3>
             <Link
-              href="#"
+              href="https://donate.grabh.com.br"
+              target="_blank"
               className="duration-2 rounded-full bg-green-600 px-6 py-4 text-xl font-bold text-white transition-all hover:bg-green-500"
             >
               {t('donation.button')}

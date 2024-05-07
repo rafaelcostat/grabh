@@ -21,15 +21,18 @@
   "operations": {
     "title": "Our Operations",
     "op1": {
-      "title": "Operation Rio do Sul",
+      "title": "Rio Grande do Sul",
+      "date": "May 2024",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
     },
     "op2": {
-      "title": "Operation Blumenau",
+      "title": "Mimoso do Sul - ES",
+      "date": "March 2024",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
     },
     "op3": {
-      "title": "Operation Itajaí",
+      "title": "Chile",
+      "date": "February 2024",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
     }
   },

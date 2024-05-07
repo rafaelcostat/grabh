@@ -53,7 +53,8 @@ export function Header() {
               </Link>
               <LanguageSelector />
               <Link
-                href="#"
+                href="https://donate.grabh.com.br"
+                target="_blank"
                 className="duration-2 rounded-full bg-green-600 px-6 py-2 font-bold text-white transition-all hover:bg-green-500"
               >
                 {t('header.donation')}

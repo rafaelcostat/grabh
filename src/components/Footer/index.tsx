@@ -17,7 +17,7 @@ export function Footer() {
           <ul className="flex flex-wrap items-center">
             <li className="ml-2">
               <Link
-                href={'mailto:teste@gmail.com'}
+                href={'mailto:grupoderesgateanimal@gmail.com'}
                 className="text-gray-700"
                 target="_blank"
               >
@@ -37,11 +37,7 @@ export function Footer() {
         </div>
         <hr className="my-6 border-gray-200 sm:mx-auto lg:mb-8 lg:mt-4" />
         <span className="block text-sm text-gray-500 sm:text-center">
-          © 2024{' '}
-          <a href="https://flowbite.com/" className="hover:underline">
-            GRABH -{' '}
-          </a>
-          {t('footer.rights')}
+          © 2024 GRABH - {t('footer.rights')}
         </span>
       </div>
     </footer>
