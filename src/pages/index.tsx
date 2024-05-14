@@ -12,8 +12,8 @@ import { News } from '../components/News'
 
 import imgAbout from '../assets/resgate.jpg'
 import bgDonate from '../assets/bgDonate.jpg'
-import img1 from '../assets/foto1.jpg'
-import img2 from '../assets/foto2.jpg'
+import img1 from '../assets/foto6.png'
+import img2 from '../assets/foto5.jpeg'
 import img3 from '../assets/foto4.jpg'
 import Link from 'next/link.js'
 
@@ -31,7 +31,7 @@ export default function Home() {
 
         <div className="container relative mx-auto px-4 sm:mb-16">
           <div className="flex flex-wrap items-center">
-            <div className="w-full lg:w-6/12">
+            <div className="hidden w-full md:block lg:w-6/12">
               <Image
                 src={imgAbout}
                 width="600"
@@ -51,29 +51,37 @@ export default function Home() {
               <div className="-mx-4 flex flex-wrap items-center">
                 <div className="w-1/2 px-4 py-6">
                   <h2 className="mb-2 font-sora text-3xl font-bold text-cyan-900">
-                    +13141
+                    +10141
                   </h2>
                   <p>{t('about.block1')}</p>
                 </div>
-                <div className="w-1/2 px-4 py-6">
+                {/* <div className="w-1/2 px-4 py-6">
                   <h2 className="mb-2 font-sora text-3xl font-bold text-cyan-900">
                     +5413
                   </h2>
                   <p>{t('about.block2')}</p>
-                </div>
+                </div> */}
                 <div className="w-1/2 px-4 py-6">
                   <h2 className="mb-2 font-sora text-3xl font-bold text-cyan-900">
                     +45
                   </h2>
                   <p>{t('about.block3')}</p>
                 </div>
-                <div className="w-1/2 px-4 py-6">
+                {/* <div className="w-1/2 px-4 py-6">
                   <h2 className="mb-2 font-sora text-3xl font-bold text-cyan-900">
                     +30
                   </h2>
                   <p>{t('about.block4')}</p>
-                </div>
+                </div> */}
               </div>
+            </div>
+            <div className="mb-12 w-full md:hidden lg:w-6/12">
+              <Image
+                src={imgAbout}
+                width="600"
+                alt=""
+                className="w-full rounded-3xl"
+              />
             </div>
           </div>
         </div>
@@ -85,7 +93,7 @@ export default function Home() {
             </h3>
           </div>
 
-          <div className="flex  flex-col lg:grid lg:grid-cols-3">
+          <div className="flex flex-col lg:grid lg:grid-cols-3">
             <News
               title={t('operations.op1.title')}
               date={t('operations.op1.date')}
@@ -108,7 +116,7 @@ export default function Home() {
         </section>
 
         <section
-          className=" relative mb-4 bg-blue-200 bg-cover bg-center bg-no-repeat py-24"
+          className="relative mb-4 bg-blue-200 bg-cover bg-center bg-no-repeat py-24"
           style={{ backgroundImage: `url(${bgDonate.src})` }}
         >
           <div className="absolute inset-0 bg-black bg-opacity-50"></div>

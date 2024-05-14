@@ -12,7 +12,7 @@
   "about": {
     "label": "About Us",
     "title": "Specialized in Technical Animal Rescue, Relief and Rescue of Animals in Disasters",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!",
+    "description": "The Animal Rescue Group of Belo Horizonte (GRABH) is a pioneering organization in Brazil, specialized in the technical rescue of animals in urban environments and environmental disasters. Founded in 2020, GRABH is comprised of 30 highly qualified members, including veterinarians, biologists, and assistants, all trained in rescue operations and certified as civilian firefighters.",
     "block1": "Rescued Animals",
     "block2": "Families served",
     "block3": "Operations Performed",
@@ -23,21 +23,21 @@
     "op1": {
       "title": "Rio Grande do Sul",
       "date": "May 2024",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+      "description": "The Human Victims Rescue and Support Group (GRABH) is currently operating in the flood disaster in Rio Grande do Sul, saving animals in danger and supporting affected families. Our animal technical rescue team provides veterinary care and shelter for displaced animals."
     },
     "op2": {
       "title": "Mimoso do Sul - ES",
       "date": "March 2024",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+      "description": "Mimoso do Sul, in Espírito Santo, was devastated by a strong storm, with floods and landslides. The GRABH team, trained for emergency situations, acted quickly to save animals in danger. Facing extreme conditions, our members located and rescued dozens of animals trapped in debris and flooded areas."
     },
     "op3": {
       "title": "Chile",
       "date": "February 2024",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+      "description": "In February 2024, a series of epic wildfires swept through Chile, mainly in the regions of Valparaíso, O'Higgins, Maule, Biobío, and La Araucanía. GRABH dispatched a team of animal technical rescue to assist in saving animals in peril and provide emergency veterinary care."
     }
   },
   "donation": {
-    "title": "Together, we can make a difference in the lives of animals in emergency situations.",
+    "title": "Together, we can make a difference. Support our work with a donation and help us continue saving lives.",
     "button": "Make a donation"
   },
   "footer": {

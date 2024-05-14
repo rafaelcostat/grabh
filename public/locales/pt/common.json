@@ -23,21 +23,21 @@
     "op1": {
       "title": "Rio Grande do Sul",
       "date": "Maio 2024",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+      "description": "O Grupo de Resgate e Apoio às Vítimas Humanas (GRABH) está atuando no desastre causado pelas enchentes no Rio Grande do Sul, salvando animais em perigo e apoiando famílias afetadas. Nossa equipe de resgate técnico animal oferece cuidados veterinários e acolhimento a animais desalojados."
     },
     "op2": {
       "title": "Mimoso do Sul - ES",
       "date": "Março 2024",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+      "description": "Mimoso do Sul, no Espírito Santo, foi devastada por uma forte tempestade, com enchentes e deslizamentos. A equipe do GRABH, treinada para situações de emergência, agiu rapidamente para salvar animais em perigo. Enfrentando condições extremas, nossos membros localizaram e resgataram dezenas de animais presos nos escombros e áreas inundadas."
     },
     "op3": {
       "title": "Chile",
       "date": "Fevereiro 2024",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum maxime fugiat eveniet consectetur, assumenda eos et consequuntur sed dolores magni aliquam optio laboriosam ea consequatur tenetur, facere commodi placeat ratione!"
+      "description": "Em fevereiro de 2024, uma série de incêndios florestais de proporções épicas varreu o Chile, principalmente nas regiões de Valparaíso, O'Higgins, Maule, Biobío e La Araucanía. O GRABH enviou uma equipe de resgate técnico animal para ajudar a salvar animais em perigo e fornecer cuidados veterinários de emergência."
     }
   },
   "donation": {
-    "title": "Juntos, podemos fazer a diferença na vida dos animais em situações de emergência.",
+    "title": "Juntos, podemos fazer a diferença. Apoie nosso trabalho com uma doação e ajude-nos a continuar salvando vidas.",
     "button": "Faça uma doação"
   },
   "footer": {
